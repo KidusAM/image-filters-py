@@ -7,3 +7,11 @@ This program:
     3) flips an image horizontally
 
 It works with PPM images only (text files)
+
+## Object filter
+
+Before:
+[image1](tetons1.ppm) [image2](tetons2.ppm) [image3](tetons3.ppm)
+
+After:
+[image4](tetons_compiled.ppm)
