@@ -1,4 +1,4 @@
-""" This is the effects module written by Kidus Mulu (km3533) It does:
+""" This is the effects module written by Kidus Mulu It does:
     1) compiles one image out of three by removing objects
     2) converts a PPM color file to a black and white file
     3) flips an image horizontally
